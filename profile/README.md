@@ -1,5 +1,5 @@
 <h1>Scite AI Review (2025 Test): Does this Scientific Citation Analyzer Stand Out?</h1>
-<p><strong>Contributor</strong> | <time datetime="2025-04-08">April 8, 2025</time></p>
+<p><strong>Scite AI Review</strong> | <time datetime="2025-04-10">April 10, 2025</time></p>
 <img src="https://i.ytimg.com/vi/LrqYSmLSLyc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC_jghHMb7G4xo4WlIFykqsqZ0Sbw"
   alt="comparative with Scite ai "
   width="750"
